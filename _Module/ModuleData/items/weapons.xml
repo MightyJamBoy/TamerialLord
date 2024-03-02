@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+	<!-- Iron Weaponry -->
+	<CraftedItem
+		id="ironaxe"
+		name="Iron Axe"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="ironmace"
+		name="Iron Mace"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="ironsword"
+		name="Iron Sword"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	
+	<CraftedItem
+		id="irondagger"
+		name="Iron Dagger"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="irongreatsword"
+		name="Iron Greatsword"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="irongreataxe"
+		name="Iron Greataxe"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="ironwarhammer"
+		name="Iron Warhammer"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<!-- Steel Weaponry -->
+	<CraftedItem
+		id="steelaxe"
+		name="Steel Axe"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="steelmace"
+		name="Steel Mace"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="steelsword"
+		name="Steel Sword"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	
+	<CraftedItem
+		id="steeldagger"
+		name="Steel Dagger"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="steelgreatsword"
+		name="Steel Greatsword"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="steelgreataxe"
+		name="Steel Greataxe"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="steelwarhammer"
+		name="Steel Warhammer"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<!-- Elven Weaponry -->
+	<CraftedItem
+		id="elvenaxe"
+		name="Elven Axe"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="elvenmace"
+		name="Elven Mace"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="elvensword"
+		name="Elven Sword"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	
+	<CraftedItem
+		id="elvendagger"
+		name="Elven Dagger"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="elvengreatsword"
+		name="Elven Greatsword"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="elvengreataxe"
+		name="Elven Greataxe"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="elvenwarhammer"
+		name="Elven Warhammer"
+		crafting_template="OneHandedAxe"
+		modifier_group="cheap_weapon">
+		<Pieces>
+			<Piece
+				id="axe_craft_32_head"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece
+				id="axe_craft_20_handle"
+				Type="Handle"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+</Items>
